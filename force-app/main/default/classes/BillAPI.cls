@@ -1,5 +1,6 @@
 public with sharing class BillAPI {
     public static void getBills() {
+        //Initial commit
         /* 
         Start by creating an HttpRequest object and set the endpoint and method.
         Endpoint: https://my-json-server.typicode.com/grizzleevelyn/231017_dev_clicked/db
